@@ -31,13 +31,6 @@ class Todo extends React.Component {
                   </button>
                 </Link>
               </span>
-              <span className="">
-                <input
-                  type="checkbox"
-                  checked={(onclick = check(todo.completed))}
-                  // checked={todo.completed}
-                />
-              </span>
             </li>
           ))}
         </ul>
