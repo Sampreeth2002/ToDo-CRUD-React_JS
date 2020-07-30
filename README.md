@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Video Demo
+VIDEO DEMO :- https://www.youtube.com/watch?v=CBUOxneyw-U&t=26s
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
